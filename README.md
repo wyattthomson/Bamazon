@@ -3,6 +3,7 @@
  - www.example.com
 ## Description on how to use the app
 This assignnment is an Amazon-like storefront utitlizing MySQL. The app will will allow the user to put in orders and depletes the stock from the store's inventory. 
+![Alt text](https://github.com/wyattthomson/Bamazon/blob/master/screenShot.png "Screen Shot")
 ## Requirements
 #### Add a simple description of what the HW requirements were
 1. Create a MySQL Database called `Bamazon`.
